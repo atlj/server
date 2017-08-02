@@ -1,1 +1,1 @@
-python ./text.py
+text.py
